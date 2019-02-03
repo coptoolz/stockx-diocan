@@ -1,0 +1,27 @@
+{
+
+  "name": "StockX",
+
+  "description": "Test",
+
+  "version": "1.0.0",
+
+  "main": "index.js",
+  
+  "license": "ISC",
+
+  "scripts": {
+
+    "start": "node index.js"
+
+  },
+
+  "dependencies": {
+
+    "discord.js": "^11.3.2",
+
+    "request": "^2.87.0"
+
+  }
+
+}
